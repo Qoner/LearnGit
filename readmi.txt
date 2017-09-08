@@ -2,3 +2,4 @@ git status//查看状态
 git add//添加到缓存
 git commit//提交
 git log//日志
+git diff//比较
